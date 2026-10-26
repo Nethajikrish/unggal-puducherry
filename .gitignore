@@ -1,0 +1,15 @@
+# Flutter / Dart build output and tool caches
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+
+# IDE and local-only settings
+.idea/
+*.iml
+.claude/settings.local.json
+
+# OS noise
+.DS_Store
+Thumbs.db
